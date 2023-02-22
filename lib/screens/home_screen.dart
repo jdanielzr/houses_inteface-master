@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:houses_inteface/widgets/additional_recommendation.dart';
 import 'package:houses_inteface/widgets/bottom_navigation_page.dart';
 import 'package:houses_inteface/widgets/category_filter.dart';
-import 'package:houses_inteface/widgets/custom_app_bar.dart';
 import 'package:houses_inteface/widgets/custom_search_bar.dart';
 import 'package:houses_inteface/widgets/recommendation.dart';
 
